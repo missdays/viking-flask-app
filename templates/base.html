@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello Flask</title>
+</head>
+<body>
+    
+    <nav>
+        <ul>
+            <li><a href="{{url_foor('index')}}">Home</a></li>
+            <li><a href="{{url_foor('about')}}">About</a></li>
+            <li><a href="{{url_foor('contact')}}">Contact</a></li>
+            <li><a href="{{url_foor('careers')}}">Careers</a></li>
+        </ul>
+    </nav>
+
+    {% block content %}
+        gets inserted here
+    {% endblock %}
+    <h1>Home Page</h1>
+</body>
+</html>
