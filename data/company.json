@@ -1,12 +1,62 @@
 [
     {
-      "name": "Vikings didn’t wear horned helmets.",
-      "description": "In lots of pictures Vikings are wearing horned helmets, especially when they were in battle. There is actually no evidence that they wore horns so it is unlikely they had them on their helmets!",
-      "image_source": "https://thumbs.dreamstime.com/b/cute-cartoon-viking-horny-helmet-isolated-white-31473963.jpg"
-    }
+      "name": "Ragnar Lothbrok",
+      "description": "A legendary Norse hero and warrior, known for his leadership in raids on France and England. Ragnar was a skilled tactician and a fearless fighter.",
+      "image_source": ""
+    },
     {
-      "name": "Vikings loved to eat fish!",
-      "description": "One of the main foods in the Viking’s diet was fish. This is because they lived near the sea! When it was warm outside they would hang the fish up to dry and eat it at a later date.",
-      "image_source": "https://cdnb.artstation.com/p/assets/images/images/030/069/843/large/armand-erborio-vik.jpg"
-    }
-  ]
+      "name": "Lagertha Shieldmaiden",
+      "description": "Lagertha was a formidable shieldmaiden and a key figure in many Viking battles. She was known for her prowess in combat and her strategic mind.",
+      "image_source": ""
+    },
+  {
+    "name": "Erik Bloodaxe",
+    "description": " A ruthless Viking king and warrior, Erik earned the nickname 'Bloodaxe' due to his brutal and ferocious nature in battle. He ruled as a powerful king in Norway.",
+    "image_source": ""
+  },
+  {
+    "name": "Sigurd Snake-in-the-Eye",
+    "description": "Son of Ragnar Lothbrok, Sigurd was a skilled warrior with a distinctive mark in the form of a snake in his eye. He played a significant role in avenging his father's death.",
+    "image_source": ""
+  },
+  {
+    "name": "Freydis Eriksdottir",
+    "description": "A fierce shieldmaiden and explorer, Freydis was the daughter of Erik the Red. She accompanied her brother Leif Erikson on voyages to Vinland and proved herself a capable leader.",
+    "image_source": ""
+  },
+  {
+    "name": "Ivar the Boneless",
+    "description": "Despite his physical condition, Ivar was a cunning and ruthless warrior, known for his strategic mind and leadership in battle. He was one of the sons of Ragnar Lothbrok.",
+    "image_source": ""
+  },
+  {
+    "name": "Gunnar Hammer of the North",
+    "description": "A skilled blacksmith and warrior, Gunnar was known for his mastery of the hammer in both crafting and combat. He played a crucial role in forging powerful weapons for his fellow Vikings.",
+    "image_source": ""
+  },
+  {
+    "name": "Bjorn Ironside",
+    "description": "Another son of Ragnar Lothbrok, Bjorn was a legendary explorer and warrior. He sailed to the Mediterranean and became known for his adventures and conquests.",
+    "image_source": ""
+  },
+  {
+    "name": "Rollo the Walker",
+    "description": "Rollo was a skilled warrior and the brother of Ragnar Lothbrok. He became the Duke of Normandy after pledging allegiance to the Frankish king, Charles the Simple.",
+    "image_source": ""
+  },
+  {
+    "name": "Aslaug the Volva",
+    "description": "Aslaug was a mysterious and powerful volva, skilled in magic and prophecy. She was the wife of Ragnar Lothbrok and mother to several of his legendary sons.",
+    "image_source": ""
+  },
+  {
+    "name": "Hakon the Brave",
+    "description": "A fearless warrior and king, Hakon was known for his bravery in battle and his commitment to the Old Norse traditions. He played a key role in preserving Viking culture.",
+    "image_source": ""
+  },
+  {
+    "name": "Ingrid Stormbreaker",
+    "description": "A skilled archer and warrior, Ingrid earned her nickname 'Stormbreaker' for her prowess in battle during stormy weather. She was a respected shieldmaiden and leader in her own right.",
+    "image_source": ""
+  }
+]

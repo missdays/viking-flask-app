@@ -1,13 +1,6 @@
 {% extends "base.html" %}
 {% block content%}
 
-
-{{ company[1]["name"] }}
-
-<p>{{ number }}</p>
-{% endfor %}
-
-
     <h2>{{ page_title }}</h2>
     <p>
         Vikings is the modern name given to seafaring people originally from Scandinavia, who from the late 8th to the
@@ -16,28 +9,20 @@
         their ears using special spoons.
     </p>
 
-    <div class="row featurette">
-        <div class="col-md-7">
-            <h3>Fun Facts</h3>
-			<p>
-			    You might not think Vikings cared about their appearance but they did!
-			    They really liked blonde hair and found a way to dye it.
-			    There were no hairdressers back then and so they used soap with something called lye in it which would lighten
-			    their hair.
-			</p>
+    {% for member in company %}
 
-            <p>
-                The Vikings were brilliant at making boats and ships.
-                Their longboats could fit 60 people in at a time which was very impressive in those times.
-            </p>
+        <div class="row featurette">
+            <div class="col-md-7">
+                <h3>{{ member.name }}</h3>
+                <p>{{ member.description }}</p>
+            </div>
+            <div class="col-md-5">
+                <img src="{{ member.image_source }}" alt="" class="featurette-image image-responsive">
+            </div>
+        </div>
 
-            <p>
-                Old Norse was the language that Vikings used.
-                In the Old Norse language Viking meant pirate raid!
-            </p>
-        </div>
-        <div class="col-md-5">
-            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/d2b79441825875.57b5c59f733a2.jpg" alt="">
-        </div>
-    </div>
+        <hr class="featurette-divider">
+
+    {% endfor %}
+
 {% endblock %}
