@@ -2,61 +2,79 @@
     {
       "name": "Ragnar Lothbrok",
       "description": "A legendary Norse hero and warrior, known for his leadership in raids on France and England. Ragnar was a skilled tactician and a fearless fighter.",
-      "image_source": ""
+      "image_source": "",
+      "url": "ragnar-lothbrok"
     },
     {
       "name": "Lagertha Shieldmaiden",
       "description": "Lagertha was a formidable shieldmaiden and a key figure in many Viking battles. She was known for her prowess in combat and her strategic mind.",
-      "image_source": ""
+      "image_source": "",
+      "url": "lagertha-shieldmaiden"
     },
   {
     "name": "Erik Bloodaxe",
     "description": " A ruthless Viking king and warrior, Erik earned the nickname 'Bloodaxe' due to his brutal and ferocious nature in battle. He ruled as a powerful king in Norway.",
-    "image_source": ""
+    "image_source": "",
+    "url": "erik-bloodaxe"
   },
   {
     "name": "Sigurd Snake-in-the-Eye",
     "description": "Son of Ragnar Lothbrok, Sigurd was a skilled warrior with a distinctive mark in the form of a snake in his eye. He played a significant role in avenging his father's death.",
-    "image_source": ""
+    "image_source": "",
+    "url": "sigurd-snake-in-the-eye"
   },
   {
     "name": "Freydis Eriksdottir",
     "description": "A fierce shieldmaiden and explorer, Freydis was the daughter of Erik the Red. She accompanied her brother Leif Erikson on voyages to Vinland and proved herself a capable leader.",
-    "image_source": ""
+    "image_source": "",
+    "url": "freydis-eriksdottir"
   },
   {
     "name": "Ivar the Boneless",
     "description": "Despite his physical condition, Ivar was a cunning and ruthless warrior, known for his strategic mind and leadership in battle. He was one of the sons of Ragnar Lothbrok.",
-    "image_source": ""
+    "image_source": "",
+    "url": "ivar-the-boneless"
   },
   {
     "name": "Gunnar Hammer of the North",
     "description": "A skilled blacksmith and warrior, Gunnar was known for his mastery of the hammer in both crafting and combat. He played a crucial role in forging powerful weapons for his fellow Vikings.",
-    "image_source": ""
+    "image_source": "",
+    "url": "gunnar-hammer-of-the-north"
   },
   {
     "name": "Bjorn Ironside",
     "description": "Another son of Ragnar Lothbrok, Bjorn was a legendary explorer and warrior. He sailed to the Mediterranean and became known for his adventures and conquests.",
-    "image_source": ""
+    "image_source": "",
+    "url": "bjorn-ironside"
   },
   {
     "name": "Rollo the Walker",
     "description": "Rollo was a skilled warrior and the brother of Ragnar Lothbrok. He became the Duke of Normandy after pledging allegiance to the Frankish king, Charles the Simple.",
-    "image_source": ""
+    "image_source": "",
+    "url": "rollo-the-walker"
   },
   {
     "name": "Aslaug the Volva",
     "description": "Aslaug was a mysterious and powerful volva, skilled in magic and prophecy. She was the wife of Ragnar Lothbrok and mother to several of his legendary sons.",
-    "image_source": ""
+    "image_source": "",
+    "url": "aslaug-the-volva"
   },
   {
     "name": "Hakon the Brave",
     "description": "A fearless warrior and king, Hakon was known for his bravery in battle and his commitment to the Old Norse traditions. He played a key role in preserving Viking culture.",
-    "image_source": ""
+    "image_source": "",
+    "url": "hakon-the-brave"
   },
   {
     "name": "Ingrid Stormbreaker",
     "description": "A skilled archer and warrior, Ingrid earned her nickname 'Stormbreaker' for her prowess in battle during stormy weather. She was a respected shieldmaiden and leader in her own right.",
-    "image_source": ""
+    "image_source": "",
+    "url": "ingrid-stormbreaker"
+  },
+  {
+    "name": "Ragnhild Iceheart",
+    "description": "Ragnhild earned her nickname 'Iceheart' for her calm and composed demeanor even in the face of adversity. She was a skilled diplomat and negotiator, often mediating conflicts within Viking communities.",
+    "image_source": "",
+    "url": "ragnhild-iceheart"
   }
 ]
